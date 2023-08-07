@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7f439b7c971431107f4abb5ef053af17" sys_domain="global" table="x_1068059_laptop_laptop_tracker" version="3" view="new">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>15641bfc971431107f4abb5ef053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_issue</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>95641bfc971431107f4abb5ef053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>19641bfc971431107f4abb5ef053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>99641bfc971431107f4abb5ef053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>1d641bfc971431107f4abb5ef053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>9d641bfc971431107f4abb5ef053af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>11641bfc971431107f4abb5ef053af22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_laptop</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+            <sys_id>91641bfc971431107f4abb5ef053af22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_laptop_laptop_tracker" sys_domain="global" view="bf439b7c971431107f4abb5ef053af11">7f439b7c971431107f4abb5ef053af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1068059_laptop_laptop_tracker</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:50:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f439b7c971431107f4abb5ef053af17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1068059_laptop_laptop_tracker</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
+            <sys_update_name>sys_ui_section_7f439b7c971431107f4abb5ef053af17</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:50:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New" name="new">bf439b7c971431107f4abb5ef053af11</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

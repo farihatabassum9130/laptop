@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type_of_laptop" label="Type of Laptop" language="en" table="x_1068059_laptop_laptop_tracker">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type_of_laptop</element>
+            <help/>
+            <hint/>
+            <label>Type of Laptop</label>
+            <language>en</language>
+            <name>x_1068059_laptop_laptop_tracker</name>
+            <plural>Type of Laptops</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:28:18</sys_created_on>
+            <sys_id>f82e4b38971431107f4abb5ef053af2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type of Laptop</sys_name>
+            <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
+            <sys_update_name>sys_documentation_x_1068059_laptop_laptop_tracker_type_of_laptop_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:28:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

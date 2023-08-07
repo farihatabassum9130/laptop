@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_of_purchase" label="Date of Purchase" language="en" table="x_1068059_laptop_laptop_tracker">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_of_purchase</element>
+            <help/>
+            <hint/>
+            <label>Date of Purchase</label>
+            <language>en</language>
+            <name>x_1068059_laptop_laptop_tracker</name>
+            <plural>Date of Purchases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:41:43</sys_created_on>
+            <sys_id>1d31573c971431107f4abb5ef053af51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date of Purchase</sys_name>
+            <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
+            <sys_update_name>sys_documentation_x_1068059_laptop_laptop_tracker_date_of_purchase_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:41:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
