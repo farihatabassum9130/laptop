@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>create</operation>
+        <source_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:50</sys_created_on>
+        <sys_id>030976ba97f031107f4abb5ef053af97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop</sys_name>
+        <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
+        <sys_update_name>sys_scope_privilege_030976ba97f031107f4abb5ef053af97</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:50</sys_updated_on>
+        <target_name>Laptop</target_name>
+        <target_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</application>
+        <file_path/>
+        <instance_id>e776e7c8dbd75918b847ac44d49619ed</instance_id>
+        <instance_name>dev144218</instance_name>
+        <name>sys_scope_privilege_030976ba97f031107f4abb5ef053af97</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>create</operation><source_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-25 17:35:50</sys_created_on><sys_id>030976ba97f031107f4abb5ef053af97</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptop</sys_name><sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package><sys_policy/><sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope><sys_update_name>sys_scope_privilege_030976ba97f031107f4abb5ef053af97</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-25 17:35:50</sys_updated_on><target_name>Laptop</target_name><target_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-1484164381</payload_hash>
+        <record_name>Laptop</record_name>
+        <reverted_from/>
+        <source>5f4b0bf0971431107f4abb5ef053afd7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:50</sys_created_on>
+        <sys_id>2129fa7a97f031107f4abb5ef053afab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a2dc440700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:50</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>6929fa7a6cf031101f01b07a2270fcaa</update_guid>
+        <update_guid_history>6929fa7a6cf031101f01b07a2270fcaa:-1484164381</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 17:37:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>04127904d7394e46813b5be3ebde96c9</sys_id>
+        <sys_metadata>030976ba97f031107f4abb5ef053af97</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop</sys_name>
+        <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
+        <sys_scope_delete display_value="">7e2e46a122a84ac7bfa812c8e7d42901</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_030976ba97f031107f4abb5ef053af97</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_030976ba97f031107f4abb5ef053af97">2129fa7a97f031107f4abb5ef053afab</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:37:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

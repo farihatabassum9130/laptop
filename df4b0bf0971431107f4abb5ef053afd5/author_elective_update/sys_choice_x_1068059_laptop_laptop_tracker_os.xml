@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-25 17:23:52</sys_created_on>
-            <sys_id>fb1d07f4971431107f4abb5ef053afe7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>os</sys_name>
             <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
@@ -75,6 +74,26 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-25 17:24:35</sys_updated_on>
             <value>Windows 7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>os</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows</label>
+            <language>en</language>
+            <name>x_1068059_laptop_laptop_tracker</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-23 16:35:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4531ee319746f1107f4abb5ef053afa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-23 16:35:47</sys_updated_on>
+            <value>Windows</value>
         </sys_choice>
     </sys_choice>
 </record_update>

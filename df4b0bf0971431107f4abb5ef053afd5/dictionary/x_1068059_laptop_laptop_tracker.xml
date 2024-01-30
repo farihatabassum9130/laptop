@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d96b8774971431107f4abb5ef053af2f" label="Laptop Tracker" max_length="40" name="x_1068059_laptop_laptop_tracker" type="collection">
+        <element label="Company" max_length="32" name="company" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of Expiry" max_length="40" name="date_of_expiry" type="glide_date"/>
+        <element attributes="audit=true" label="Date of Issue" mandatory="true" max_length="40" name="date_of_issue" type="glide_date_time"/>
+        <element display="true" label="Date of Purchase" max_length="40" name="date_of_purchase" type="glide_date_time"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="OS " max_length="40" name="os" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mac" value="Mac"/>
+                <element inactive_on_update="false" label="Windows 10" value="Windows 10"/>
+                <element inactive_on_update="false" label="Windows 7" value="Windows 7"/>
+                <element inactive_on_update="false" label="Windows" sequence="0" value="Windows"/>
+            </choice>
+        </element>
+        <element label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element attributes="audit=true" choice="1" label="Type of Laptop" max_length="40" name="type_of_laptop" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" value="New"/>
+                <element inactive_on_update="false" label="Replacement" value="Replacement"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="company"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>

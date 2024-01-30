@@ -6,9 +6,9 @@
         <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
-        <delete_access>false</delete_access>
+        <delete_access>true</delete_access>
         <is_extendable>false</is_extendable>
         <label>Laptop Tracker</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -22,16 +22,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-25 17:17:39</sys_created_on>
         <sys_id>d96b8774971431107f4abb5ef053af2f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Laptop Tracker</sys_name>
         <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
         <sys_update_name>sys_db_object_d96b8774971431107f4abb5ef053af2f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-25 17:37:18</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:47:22</sys_updated_on>
         <u_history_number/>
-        <update_access>false</update_access>
+        <update_access>true</update_access>
         <user_role display_value="x_1068059_laptop.laptop_tracker_user" name="x_1068059_laptop.laptop_tracker_user">70bb8774971431107f4abb5ef053af81</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>

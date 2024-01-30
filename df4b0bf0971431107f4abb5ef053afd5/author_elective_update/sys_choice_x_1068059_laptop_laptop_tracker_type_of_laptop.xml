@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-25 17:28:23</sys_created_on>
-            <sys_id>422e0b38971431107f4abb5ef053af3e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>type_of_laptop</sys_name>
             <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>

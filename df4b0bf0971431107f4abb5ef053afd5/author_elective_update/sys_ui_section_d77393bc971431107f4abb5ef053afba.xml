@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Replacement" section_id="d77393bc971431107f4abb5ef053afba" sys_domain="global" table="x_1068059_laptop_laptop_tracker" version="3" view="new">
+        <sys_ui_section action="DELETE">
+            <caption>Replacement</caption>
+            <header>false</header>
+            <name>x_1068059_laptop_laptop_tracker</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 17:51:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d77393bc971431107f4abb5ef053afba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1068059_laptop_laptop_tracker</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
+            <sys_update_name>sys_ui_section_d77393bc971431107f4abb5ef053afba</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 17:51:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New" name="new">bf439b7c971431107f4abb5ef053af11</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</application>
+        <file_path/>
+        <instance_id>e776e7c8dbd75918b847ac44d49619ed</instance_id>
+        <instance_name>dev144218</instance_name>
+        <name>sys_ui_section_d77393bc971431107f4abb5ef053afba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Replacement" section_id="d77393bc971431107f4abb5ef053afba" sys_domain="global" table="x_1068059_laptop_laptop_tracker" version="3" view="new"><sys_ui_section action="INSERT_OR_UPDATE"><caption>Replacement</caption><header>false</header><name>x_1068059_laptop_laptop_tracker</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 17:51:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d77393bc971431107f4abb5ef053afba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1068059_laptop_laptop_tracker</sys_name><sys_overrides/><sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package><sys_policy/><sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope><sys_update_name>sys_ui_section_d77393bc971431107f4abb5ef053afba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 17:51:40</sys_updated_on><sys_user/><title>false</title><view display_value="New" name="new">bf439b7c971431107f4abb5ef053af11</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1113885333</payload_hash>
+        <record_name>Laptop Tracker</record_name>
+        <reverted_from/>
+        <source>5f4b0bf0971431107f4abb5ef053afd7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 17:54:31</sys_created_on>
+        <sys_id>b424d3fc971431107f4abb5ef053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1898e3035ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 17:54:31</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>bc24d3fce2143110301952ab2da12cdb</update_guid>
+        <update_guid_history>bc24d3fce2143110301952ab2da12cdb:-1113885333,d2839bbc191431101fdb0c63168e3dcd:524281370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 17:55:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>5dfddc1e148646189bb4d5662e0c3a40</sys_id>
+        <sys_metadata>d77393bc971431107f4abb5ef053afba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Replacement</sys_name>
+        <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
+        <sys_parent display_value="Laptop Tracker">d96b8774971431107f4abb5ef053af2f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
+        <sys_scope_delete display_value="">7e2e46a122a84ac7bfa812c8e7d42901</sys_scope_delete>
+        <sys_update_name>sys_ui_section_d77393bc971431107f4abb5ef053afba</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_d77393bc971431107f4abb5ef053afba">b424d3fc971431107f4abb5ef053afdc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 17:55:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

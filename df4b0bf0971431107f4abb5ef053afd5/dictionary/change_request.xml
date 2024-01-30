@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" db_object_id="c58c404724b021108c8bc6863d3fad71" extends="task" label="Change Request" max_length="40" name="change_request" text_index="true" type="collection">
+        <element display="true" label="Laptop Tracker" max_length="32" name="x_1068059_laptop_laptop_tracker" reference="x_1068059_laptop_laptop_tracker" type="reference"/>
+    </element>
+</database>

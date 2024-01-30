@@ -40,7 +40,7 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sn_ci_analytics_st_users">sn_ci_analytics_st_users</reference>
+        <reference display_value="" name="sys_user">sys_user</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -52,14 +52,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-25 17:25:55</sys_created_on>
-        <sys_id>446d87f4971431107f4abb5ef053af77</sys_id>
         <sys_name>Owner</sys_name>
         <sys_package display_value="Laptop" source="x_1068059_laptop">df4b0bf0971431107f4abb5ef053afd5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Laptop">df4b0bf0971431107f4abb5ef053afd5</sys_scope>
         <sys_update_name>sys_dictionary_x_1068059_laptop_laptop_tracker_owner</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-25 17:25:55</sys_updated_on>
+        <sys_updated_on>2023-09-25 13:35:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
